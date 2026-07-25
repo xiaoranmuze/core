@@ -1,5 +1,5 @@
 ◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-更新日期: 2026-7-25 18:08:04,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=9f59dcc9dd8c9ff1173de87210cc2951&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260725172459&Channel_ID=0116_2600034600-99000-201600010074008&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=220.196.48.21&SecurityKey=20260725172459&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0aa2b7382445c3287c2b2004782db0d5&sv=10004&ct=android
+更新日期: 2026-7-25 22:29:31,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=50e3c6e6d5a9a9d07b51725e6a0e5098&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260725222447&Channel_ID=0116_2600034600-99000-201600010073346&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=220.196.48.202&SecurityKey=20260725222447&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7a9c73f67dac474695dbc186f0d72c77&sv=10004&ct=android
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
 衡山综合,https://liveplay-srs.voc.com.cn/hls/tv/161_8d2e76.m3u8
@@ -38,10 +38,12 @@
 龙泉电视,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
+海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 伊春综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
@@ -90,26 +92,15 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-07-25 19:40:14,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-07-25 23:35:46,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://115.171.216.32:4000/rtp/225.1.8.211:8002
-淘,http://114.254.32.227:8888/rtp/239.3.1.249:8001
 淘,http://123.118.54.216:8686/rtp/239.3.1.249:8001
-淘,http://115.171.216.40:4000/rtp/225.1.8.211:8002
-淘,http://114.254.85.196:4022/rtp/239.3.1.249:8001
-睛彩广场舞,http://114.254.32.227:8888/rtp/239.3.1.128:8001
 睛彩广场舞,http://123.118.54.216:8686/rtp/239.3.1.128:8001
-睛彩广场舞,http://114.254.85.196:4022/rtp/239.3.1.128:8001
 先锋乒羽,http://106.59.3.171:55555/rtp/239.200.201.33:4120
 华数,http://115.171.216.32:4000/rtp/225.1.8.80:2000
-华数,http://114.254.32.227:8888/rtp/239.3.1.236:2000
 华数,http://123.118.54.216:8686/rtp/239.3.1.236:2000
-华数,http://115.171.216.40:4000/rtp/225.1.8.80:2000
-华数,http://114.254.85.196:4022/rtp/239.3.1.236:2000
 华数动作影院,http://115.171.216.32:4000/rtp/225.1.8.252:4120
-华数动作影院,http://114.254.32.227:8888/rtp/239.3.1.92:4120
 华数动作影院,http://123.118.54.216:8686/rtp/239.3.1.92:4120
-华数动作影院,http://115.171.216.40:4000/rtp/225.1.8.252:4120
-华数动作影院,http://114.254.85.196:4022/rtp/239.3.1.92:4120
 
 
 ◆◆◆　https://freetv.fun/test_channels_original_new.txt
@@ -782,6 +773,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 []浙江钱江,https://t.freetv.fun/live/zhe-jiang-qian-jiang-3.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-1.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-15.m3u8
+乌海新闻综合,https://t.freetv.fun/live/wu-hai-xin-wen-zong-he.m3u8
 []海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-3.m3u8
 深圳电视剧,https://t.freetv.fun/live/shen-zhen-dian-shi-ju.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi.m3u8
@@ -3172,6 +3164,8 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -3235,7 +3229,6 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 常州武进生活,https://live.wjyanghu.com/live/CH2.m3u8
 苏州电影娱乐信息,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-南通如东新闻,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 扬州1套新闻,http://cm-wshls.homecdn.com/8bb.m3u8
 扬州2套城市,http://cm-wshls.homecdn.com/8bd.m3u8
 扬州3套生活,http://cm-wshls.homecdn.com/8bf.m3u8
@@ -3797,6 +3790,8 @@ TVB黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-8.m3u8
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 通海电视,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 黑龙江新闻,https://stream1.freetv.fun/hei-long-jiang-xin-wen-9.m3u8
@@ -3907,6 +3902,7 @@ NOW星影,http://173.208.234.146/live/nowxy.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
 华数卡通,http://221.220.129.150:8012/rtp/239.3.1.80:4120
 华数卡通,http://220.176.218.4:9000/rtp/239.252.219.165:5140
+华数卡通,http://115.171.216.40:4000/rtp/225.1.8.240:4120
 SiTV乐游,http://171.8.170.217:8800/rtp/239.16.20.111:11110
 SiTV乐游,http://183.164.236.33:8888/rtp/238.1.78.151:7080
 SiTV乐游,http://171.8.170.20:8800/rtp/239.16.20.111:11110
