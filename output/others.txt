@@ -2,15 +2,26 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-08-28 22:27:27,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-08-29 07:36:51,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+淘,http://115.171.216.40:4000/rtp/225.1.8.211:8002
+淘,http://114.254.36.239:8888/rtp/239.3.1.249:8001
 淘,http://221.220.128.203:8012/rtp/239.3.1.249:8001
+淘,http://115.171.216.32:4000/rtp/225.1.8.211:8002
 淘,http://123.118.50.191:8686/rtp/239.3.1.249:8001
+睛彩广场舞,http://114.254.36.239:8888/rtp/239.3.1.128:8001
 睛彩广场舞,http://221.220.128.203:8012/rtp/239.3.1.128:8001
 睛彩广场舞,http://123.118.50.191:8686/rtp/239.3.1.128:8001
 先锋乒羽,http://106.59.3.228:55555/rtp/239.200.201.33:4120
+先锋乒羽,http://106.59.2.152:55555/rtp/239.200.201.33:4120
+华数,http://115.171.216.40:4000/rtp/225.1.8.80:2000
+华数,http://114.254.36.239:8888/rtp/239.3.1.236:2000
 华数,http://221.220.128.203:8012/rtp/239.3.1.236:2000
+华数,http://115.171.216.32:4000/rtp/225.1.8.80:2000
 华数,http://123.118.50.191:8686/rtp/239.3.1.236:2000
+华数动作影院,http://115.171.216.40:4000/rtp/225.1.8.252:4120
+华数动作影院,http://114.254.36.239:8888/rtp/239.3.1.92:4120
 华数动作影院,http://221.220.128.203:8012/rtp/239.3.1.92:4120
+华数动作影院,http://115.171.216.32:4000/rtp/225.1.8.252:4120
 华数动作影院,http://123.118.50.191:8686/rtp/239.3.1.92:4120
 
 
@@ -682,6 +693,8 @@ CGTN英文记录,http://183.11.239.36:808/hls/77/index.m3u8
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -1161,6 +1174,8 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
 翡翠台,http://r.jdshipin.com/qClQf
@@ -1263,7 +1278,6 @@ CETV-中国教育4,http://204.12.221.218:8181/3m1080p/cetv4.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
 东森美洲,https://t.freetv.fun/live/dong-sen-xin-wen-1.ts
 华数卡通,http://221.220.135.225:8012/rtp/239.3.1.80:4120
-华数卡通,http://115.171.216.32:4000/rtp/225.1.8.240:4120
 💯推荐,http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 20260821 06:18:44,https://vdse.bdstatic.com/h265w2/wzab77d46f6a582cbdc06593882853534d.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10390092499894835995&vt=-1&svt=-1&cr_max=2&s_score=-1.000000&pt=0&av=17.8&vid=15107691385944962233&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=2&h265_s=1&sl=122&sle=1&split=347403
 👨潇然,https://vdse.bdstatic.com//78b7b6f9909e9012f7d3d27b39147160.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T14%3A24%3A12Z%2F-1%2Fhost%2F0b795c08d9a49f6228a821e9d1e536b442f8544a2d01c60d360d463d290eb6e6
