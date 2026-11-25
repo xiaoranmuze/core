@@ -2,18 +2,14 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-11-25 07:33:36,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-11-25 19:30:54,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://111.196.135.80:20000/rtp/239.3.1.249:8001
-淘,http://123.118.48.78:8686/rtp/239.3.1.249:8001
 淘,http://114.254.86.171:4022/rtp/239.3.1.249:8001
 睛彩广场舞,http://111.196.135.80:20000/rtp/239.3.1.128:8001
-睛彩广场舞,http://123.118.48.78:8686/rtp/239.3.1.128:8001
 睛彩广场舞,http://114.254.86.171:4022/rtp/239.3.1.128:8001
 华数,http://111.196.135.80:20000/rtp/239.3.1.236:2000
-华数,http://123.118.48.78:8686/rtp/239.3.1.236:2000
 华数,http://114.254.86.171:4022/rtp/239.3.1.236:2000
 华数动作影院,http://111.196.135.80:20000/rtp/239.3.1.92:4120
-华数动作影院,http://123.118.48.78:8686/rtp/239.3.1.92:4120
 华数动作影院,http://114.254.86.171:4022/rtp/239.3.1.92:4120
 
 
@@ -789,6 +785,8 @@ STARSHINE刹那,http://zzy789.xyz/douyu1.php?id=9191006
 武乡融媒体,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8
 达茂综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live174278125035550.m3u8
 元宝山电视,http://l2yx82zv.live2.danghongyun.com/live/hls/8be0890a1b0c4d7aaf80b51ea8646682/5a8988f5ecc64986a19aa9b6b3a052a6.m3u8
+准格尔旗综合,http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+乌海都市生活,http://live.wuhainews.org.cn/dssh/sd/live.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
@@ -1206,16 +1204,16 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=927c785166cdc7d8481692a02bfd5138&wsTime=1795615414
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=6a4450ef7e8856b8fff252abaed94797&wsTime=1795615414
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=115a2d1d7690437eff9edf5d6e687229&wsTime=1795615414
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=909f2b3adc7982ee613503f83d11e35b&wsTime=1795615414
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=cb3220b3aec5588e7682e5341353f443&wsTime=1795615414
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=501f676a1e3c1c53cec6179694ad1948&wsTime=1795615414
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=71903fd16f9ee19a624a01cbf26db982&wsTime=1795615414
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=0557ac447d26888c2a02689a51168437&wsTime=1795615414
-国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=57841011868045ee4f7764f249116eca&wsTime=1795615414
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=f1fc21c52106dd9d8cd897b914ff5865&wsTime=1795615414
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c0706386a322d64bb613ea4c0221c1bc&wsTime=1795619024
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=bb7b5027bd5757adfdbde711a5e6bb43&wsTime=1795619024
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=8f007ba7d10cf73c2f26da127e054609&wsTime=1795619024
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=5a08c8bc55382b1b0eca8eac03bf7276&wsTime=1795619024
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=30f5292a24018bb8dd0449800c8afb02&wsTime=1795619024
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=694960bd3d2d7a8e05e6c22c11e0406a&wsTime=1795619024
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=542064f3a6322fdca36da4cec3ed0ac2&wsTime=1795619024
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=af9be61185c381fc715ddd8a90b0cd64&wsTime=1795619024
+国学,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=d2770bab055e3964b73dfe59e11df981&wsTime=1795619024
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=cdd446b9b98e8c53231eebbb016b971e&wsTime=1795619024
 福建海峡卫视,http://175.24.134.198:1234/849119120
 中国农林卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/zgnlws/50/20250804/index.m3u8?msisdn=202611251602524673d3f019134ad4b8993e43fc7a26dc&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20261125160252&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20261125160252&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=116cba0dd5492bb770f9efa352488cad
 上视新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?msisdn=2026112516025370e55deef02345d88df3e708d496560f&mdspid=&spid=600697&netType=0&sid=5910022325&pid=2028597139&timestamp=20261125160253&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5910022325&client_ip=171.8.79.254&SecurityKey=20261125160253&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6702819d0986162a2e085447c0dc3f68
@@ -1298,6 +1296,8 @@ DJ舞曲[刷新就是新内容],http://xjj1.716888.xyz/fenlei/djxjj/dj1.php
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 六安公共,http://ls.qingting.fm/live/1794199.m3u8
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古蒙语文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
 七台河民生社教,http://yp.qqqtv.top/1/api.php?id=%E4%B8%83%E5%8F%B0%E6%B2%B3%E6%B0%91%E7%94%9F%E7%A4%BE%E6%95%99&auth=666858
